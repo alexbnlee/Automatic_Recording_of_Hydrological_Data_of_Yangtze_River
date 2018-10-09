@@ -1,0 +1,9 @@
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\bin\Debug\大字体模板1.exe
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\bin\Debug\大字体模板1.pdb
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\大字体模板1.Form1.resources
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\大字体模板1.Properties.Resources.resources
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\大字体模板1.exe
+D:\DOCUMENTS\[SM] - C#\Html练习\长江水文\大字体模板1\obj\x86\Debug\大字体模板1.pdb
